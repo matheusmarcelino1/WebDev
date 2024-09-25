@@ -1,0 +1,15 @@
+/* src/Styles/global.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  @apply bg-background text-white;
+  display: flex;
+  flex-direction: column;
+}
