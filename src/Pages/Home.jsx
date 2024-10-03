@@ -1,10 +1,10 @@
 import React from 'react';
-import minhaImagem from '../assets/matheus.jpg'; // Ajuste o caminho se necessário
+import minhaImagem from '../assets/matheus.jpg';
 
 const Home = () => {
   return (
-    <div className="flex flex-col h-screen bg-black"> {/* Use h-screen para ocupar 100% da altura da tela */}
-      <div className="flex-grow flex flex-col items-center justify-center p-4 overflow-auto"> {/* overflow-auto para evitar a rolagem no contêiner principal */}
+    <div className="flex flex-col h-screen bg-black"> 
+      <div className="flex-grow flex flex-col items-center justify-center p-4 overflow-auto">
         <div className="flex flex-col items-center mb-8">
           <img 
             src={minhaImagem} 

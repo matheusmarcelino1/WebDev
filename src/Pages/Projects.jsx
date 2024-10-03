@@ -12,7 +12,7 @@ const Projects = () => {
     {
       id: 2,
       title: 'Henrique Tatto',
-      description: 'Densenvolvi um portfólio profissional, afim de divulgar o trabalho do',
+      description: 'Densenvolvi um portfólio profissional, afim de divulgar o trabalho de um tatuador.',
       link: '#',
     },
     {
