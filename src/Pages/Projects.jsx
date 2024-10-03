@@ -5,14 +5,14 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: 'Instagram',
-      description: 'Decidi transformar minha visão de um novo tipo de plataforma social em realidade. A ideia surgiu da crescente popularidade das redes sociais e do desejo das pessoas de compartilhar momentos visuais com seus amigos e familiares de maneira rápida e acessível.',
+      title: 'Oceans 20',
+      description: 'Projeto destinado a Global Solution da FIAP, utilizando HTML5 e CSS3',
       link: '#',
     },
     {
       id: 2,
-      title: 'Youtube',
-      description: 'Quando a internet estava se tornando uma parte integral das nossas vidas, decidi que era hora de revolucionar o modo como consumimos e compartilhamos vídeos online.',
+      title: 'Henrique Tatto',
+      description: 'Densenvolvi um portfólio profissional, afim de divulgar o trabalho do',
       link: '#',
     },
     {
@@ -25,7 +25,7 @@ const Projects = () => {
 
   return (
     <div className="container mx-auto p-6">
-      <h2 className="text-3xl font-bold mb-6 text-purple-800 text-center">Meus Projetos</h2>
+      <h2 className="text-5xl font-bold mb-6 text-purple-800 text-center">Meus Projetos</h2>
       <ProjectList projects={projects} />
     </div>
   );

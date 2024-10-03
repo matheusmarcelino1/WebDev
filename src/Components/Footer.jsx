@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="bg-black text-white py-6 mt-12">
       <div className="container mx-auto text-center">
-        <p className="mb-4 text-sm">&copy; 2024 Meu Portfólio. Todos os direitos reservados.</p>
+        <p className="mb-4 text-sm">&copy; 2024 Portfólio - Matheus Marcelino. Todos os direitos reservados.</p>
         <div className="flex justify-center space-x-6 mb-4">
           <a
             href="https://github.com/matheusmarcelino1"
