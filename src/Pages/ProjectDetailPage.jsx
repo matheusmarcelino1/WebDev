@@ -16,7 +16,7 @@ const ProjectDetailPage = () => {
       id: 2,
       title: 'HENRIQUE TATTO',
       description: 'Desenvolvi um portfólio exclusivo para um tatuador, com o objetivo de destacar seu trabalho e atrair novos clientes. O projeto foi criado utilizando HTML5 e CSS3, proporcionando uma experiência visual atraente e responsiva. O design foi cuidadosamente elaborado para refletir o estilo único do tatuador, com uma galeria de imagens que exibe suas obras de forma impactante. Além disso, implementei uma navegação intuitiva, permitindo que os visitantes explorem facilmente as diferentes seções, como estilos de tatuagem, depoimentos de clientes e informações de contato. O resultado final é um portfólio que não apenas apresenta o talento do tatuador, mas também oferece uma plataforma envolvente para interagir com potenciais clientes.',
-      link: 'https://www.youtube.com/?app=desktop&hl=pt',
+      link: 'https://github.com/matheusmarcelino1/Henri-Tatto',
     },
 
     {
