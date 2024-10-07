@@ -17,8 +17,8 @@ const Projects = () => {
     },
     {
       id: 3,
-      title: 'Facebook',
-      description: 'Ao perceber a crescente demanda por novas formas de conexão social na era digital, decidi criar uma plataforma que transformaria a maneira como as pessoas se relacionam e compartilham suas vidas online.',
+      title: 'Landing Page - Challenge',
+      description: 'Projeto desenvolvido referente ao Challenge 2024 da Fiap.',
       link: '#',
     },
   ];
